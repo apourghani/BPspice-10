@@ -1,0 +1,9 @@
+* hi this is a test
+v1 3 4 12 0 0 0
+r2 1 2 5
+r1 2 3 5
+r4 1 4 2
+.tran 10m
+dv 1m
+dI 1m
+dT 10u
